@@ -4,4 +4,4 @@ Interactive graph of publications of large-volume dense EM reconstruction volume
 Initial idea and data from Timothy Lee, Georgia Institute of Technology.
 http://www.bioengineering.gatech.edu/people/timothy-lee
 
-This is a personal toy project to learn interactive graphing in Python.
+This started as a personal toy project to learn interactive graphing in Python.
