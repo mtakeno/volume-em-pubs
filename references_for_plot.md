@@ -32,6 +32,9 @@
 27. Armer HE, Mariggi G, Png KM, Genoud C, Monteith AG, Bushby AJ, Gerhardt H, Collinson LM. Imaging transient blood vessel fusion events in zebrafish by correlative volume electron microscopy. PLoS One. 2009 Nov 6;4(11):e7716. doi: 10.1371/journal.pone.0007716. PMID: 19893745; PMCID: PMC2769265.
 28. Motta A, Berning M, Boergens KM, Staffler B, Beining M, Loomba S, Hennig P, Wissler H, Helmstaedter M. Dense connectomic reconstruction in layer 4 of the somatosensory cortex. Science. 2019 Nov 29;366(6469):eaay3134. doi: 10.1126/science.aay3134. Epub 2019 Oct 24. PMID: 31649140.
 29. Maniates-Selvin J, et al. Lee 2020 bioRxiv doi: [https://doi.org/10.1101/2020.01.10.902478]
+30. Wanner
+31. Templier 2019 MagC
+32. Dorkenwald "Pinky" dataset
 
 
 References indexed in PubMed are saved in the collection "volume-em-pubs" located at: 
