@@ -1,0 +1,24 @@
+﻿number_sections,section_thickness,calculated_z,section_dimension_x,section_dimension_y,calc_volume,pickup_method,substrate_type,number_lost_sections,reference_number,is_plotted,publication_year,publication_title
+,um,um,um,um,um^3,,,,,,,
+4150,0.05,,450,350,,"one grid, one section",1mm x 2mm slot grid,28,1,T,2011,"Bock, D. D. et al. Network anatomy and in vivo physiology of visual cortical neurons. Nature 471, 177–182 (2011)."
+306,0.07,,130,220,,"ribbon, 20 section each ribbon",1mm x 2mm slot grid,unreported,8,T,2007,"Hoffpauir, B. K., Pope, B. a & Spirou, G. a. Serial sectioning and electron microscopy of large tissue volumes for 3D analysis and reconstruction: a case study of the calyx of Held. Nat. Protoc. 2, 9–22 (2007)."
+3700,0.05,,450,450,,"one grid, one section",1mm x 2mm slot grid,51,11,T,2016,"Lee, W. A., Bonin, V., Anatomy and Function of an excitatory network in the visual cortex"
+1073,0.5,,150,450,,ribbon,1mm x 2mm slot grid,1,18,F,1985,fahrenbach horseshoe crab paper 1985
+3000,0.05,,50,50,,"unreported, probably ribbon",1mm x 2mm slot grid,~1%,2,T,2013,"Bumbarger, D. J., Riebesell, M., Rodelsperger, and C. Sommer, R. J., System-wide Rewiring Underlies Behavioral Differences in Predatory and Bacterial-Feeding Nematodes. 109–119 (2013). doi:10.1016/j.cell.2012.12.013"
+unreported,0.05,,200,50,,ribbon,1mm x 2mm slot grid,unreported,,,,ultrastructural analysis of hippocampal neuropil from the connectomics perspective
+2000,0.06,,100,100,,"ribbon, 15 - 30 sections each ribbon",1mm x 2mm slot grid,3% (60),5,T,1991,The posterior nervous system of the nematode c elegans: serial reconsruction of identified neurons and complete pattern of synaptic interactions
+"20, 22, 60",0.1,,10,10,,ribbon,1mm x 2mm slot grid,0,14,T,1974,ultrastructure and three-dimensional organization of synaptic glomeruli in rat somatosensory thalamus
+2600,0.09,,700,600,,"one grid, one section",1mm x 2mm slot grid,559,4,F,1972,ultrastructure within the lateral plexus of the limulus eye
+189,0.5,,100,100,,ribbons,unreported,unreported,,,1983,microcircuitry of the cat retina - ?
+1200,0.08,,10,10,,"ribbon, 3-5 each ribbon",1mm x 2mm grid,unreported,6,T,1987,synaptic circuits involving an individual retinogeniculate axon in the cat
+"200, multiple times",0.045,,4300,4300,,"ribbon, 200 sections on 12 grids",1mm x 2mm grid,unreported,10,T,2013,automated transmission-mode scanning electron microscopy for large volume analysis at nanoscale resolution
+107;109,64 nm; 50 nm,,60,30,,ribbon,1mm x 2mm grid,unreported,15,T,1998,three-dimensional structure and composition of CA3 -> CA1 Axons in Rat Hippocampal Slices
+672,0.06,,17,22,,ribbon,1mm x 2mm slot grid,3,16,T,2008,Synaptic Circuits of the DrosophilaOptic Lobe: The Input Terminals to theMedulla
+1769,0.042,,37,37,,ribbon,1mm x 2mm slot grid,21,17,T,2013,"A visual motion detection circuit suggested by Drosophila connectomics, takemura et. al.,"
+,,,,,,,,,,,,
+3375,0.06,,100,100,,ribbon,1mm x 2mm slot grid,unreported,13,T,2016,Ryan et al. sea squirt larva Ciona intestinalis (anterior portion)
+7062,0.05,,40,40,,,1mm x 2mm slot grid,10,20,,2018,A complete electron microscopy volume of the brain of adult Drosophila melanogaster
+8000,0.05,,80,80,,"one grid, one section",1mm x 2mm slot grid,unreported,19,,1986,"the structure of the nervous system of the nematode; White, J. G., Southgate, E., Thomson, J. N. & Brenner S."
+,,,,,,,,,,,,
+,,,,,,,,,21,,2015,Kasthuri S1 dense
+,,,,,,,,,32,,2020,"Dorkenwald ""Pinky"" "

@@ -1,0 +1,33 @@
+[1] 	Bock, D. D., Lee, W. C., Kerlin, A. M., Andermann, M. L., Hood, G., Wetzel, A. W., et al. (2011) Network anatomy 	and in vivo physiology of visual cortical neurons. Nature 471:177–182.
+[2] 	Bumbarger DJ, Riebesell M, Rödelsperger C, Sommer RJ. (2013) System-wide Rewiring Underlies Behavioral 	Differences in Predatory and Bacterial-Feeding Nematodes. Cell. 152(1–2):109-119. https://doi.org/10.1016/	j.cell.2012.12.013. 
+[3] 	Dowell, W. C. T. (1959). Unobstructed mounting of serial section. J. Ultrastruct. Res., 28,634.
+[4] 	Gur M, Purple RL, Whitehead R. (1972) Ultrastructure within the Lateral Plexus of the Limulus Eye.  J. Gen. Phys. 	1972;59(3):285-304.
+[5] 	Hall DH, Russell RL. The posterior nervous system of the nematode Caenorhabditis elegans: serial reconstruction of identified neurons and complete pattern of synaptic interactions. J Neurosci. 1991 Jan;11(1):1-22. doi: 10.1523/JNEUROSCI.11-01-00001.1991. PMID: 1986064; PMCID: PMC6575198.
+[6]	Hamos JE, Van Horn SC, Raczkowski D, Sherman SM. (1987) Synaptic circuits involving an individual 	retinogeniculate axon in the cat. J Comp Neurol, 15;260(3):481.
+[7] 	Harris KM, et al. (2006) Uniform serial sectioning for transmission electron microscopy. J Neurosci, 26:12101–	12103.
+[8] 	Hoffpauir, B. K., Pope, B. & Spirou, G. (2007) Serial sectioning and electron microscopy of large tissue volumes for 	3D analysis and reconstruction: a case study of the calyx of Held. Nat. Protoc. 2, 9–22.
+[9] 	Hua Y, Laserstein P, Helmstaedter M. (2015) Large-volume en-bloc staining for electron microscopy-based 	connectomics. Nat Commun, 6:7923. doi: 10.1038/ncomms8923.
+[10] 	Kuwajima M, Mendenhall JM, Lindsey LF, Harris KM (2013) Automated Transmission-Mode Scanning Electron 	Microscopy 	(tSEM) for Large Volume Analysis at Nanoscale Resolution. PLoS ONE8(3): e59573. https://doi.org/10.1371/	journal.pone.0059573
+[11] 	Lee W-C A, Bonin V et al. (2016) Anatomy and function of an excitatory network in the visual cortex. Nature 532:370–374.
+[12] 	Lee K, & Zung J, Li P, Jain V, Seung H. (2017). Superhuman Accuracy on the SNEMI3D Connectomics Challenge. 	arXiv:	1706.00120.
+[13] 	Ryan K, Lu Z, Meinertzhagen IA. The CNS connectome of a tadpole larva of Ciona intestinalis (L.) highlights sidedness in the brain of a chordate sibling. Elife. 2016 Dec 6;5:e16962. doi: 10.7554/eLife.16962. PMID: 27921996; PMCID: PMC5140270.
+[14] 	Spacek J & Lieberman AR. (1974) Ultrastructure and three-dimensional organization of synaptic glomeruli in rat 	somatosensory thalamus. J Anat., 117(Pt 3): 487–516.
+[15] 	Shepherd GM, Harris KM. (1998) Three-dimensional structure and composition of CA3-->CA1 axons in rat 	hippocampal slices: implications for 	presynaptic connectivity and compartmentalization. J Neurosci,18(20):8300-10.
+[16]	Takemura SY, Lu Z, Meinertzhagen IA. Synaptic circuits of the Drosophila optic lobe: the input terminals to the medulla. J Comp Neurol. 2008 Aug 10;509(5):493-513. doi: 10.1002/cne.21757. PMID: 18537121; PMCID: PMC2481516.
+[17] 	Takemura, S., Bharioke, A., Lu, Z., Nern, A., Vitaladevuni, S., Rivlin, P. K., Chklovskii, D. B. (2013). A visual motion detection 	circuit suggested by Drosophila connectomics. Nature, 500(7461), 175–181. http://doi.org/10.1038/nature12450
+[18]	Fahrenbach WH. Anatomical circuitry of lateral inhibition in the eye of the horseshoe crab, Limulus polyphemus. Proc R Soc Lond B Biol Sci. 1985 Aug 22;225(1239):219-49. doi: 10.1098/rspb.1985.0060. PMID: 2864695.
+
+
+
+
+
+
+New references
+
+[19]	White JG, Southgate E, Thomson JN, Brenner S. The structure of the nervous system of the nematode Caenorhabditis elegans. Philos Trans R Soc Lond B Biol Sci. 1986 Nov 12;314(1165):1-340. doi: 10.1098/rstb.1986.0056. PMID: 22462104.
+[20]	Zheng Z, Lauritzen JS, Perlman E, Robinson CG, Nichols M, Milkie D, Torrens O, Price J, Fisher CB, Sharifi N, Calle-Schuler SA, Kmecova L, Ali IJ, Karsh B, Trautman ET, Bogovic JA, Hanslovsky P, Jefferis GSXE, Kazhdan M, Khairy K, Saalfeld S, Fetter RD, Bock DD. A Complete Electron Microscopy Volume of the Brain of Adult Drosophila melanogaster. Cell. 2018 Jul 26;174(3):730-743.e22. doi: 10.1016/j.cell.2018.06.019. Epub 2018 Jul 19. PMID: 30033368; PMCID: PMC6063995.
+[21]	Kasthuri N, Hayworth KJ, Berger DR, Schalek RL, Conchello JA, Knowles-Barley S, Lee D, Vázquez-Reina A, Kaynig V, Jones TR, Roberts M, Morgan JL, Tapia JC, Seung HS, Roncal WG, Vogelstein JT, Burns R, Sussman DL, Priebe CE, Pfister H, Lichtman JW. Saturated Reconstruction of a Volume of Neocortex. Cell. 2015 Jul 30;162(3):648-61. doi: 10.1016/j.cell.2015.06.054. PMID: 26232230.
+
+[22]	Ohyama 2015 drosophila larva (2 samples described) ?
+
+
