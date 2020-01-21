@@ -1,0 +1,26 @@
+﻿number_sections,section_thickness,calculated_z,section_dimension_x,section_dimension_y,calc_volume,imaging_method,pickup_method,substrate_type,number_lost_sections,reference_number,is_plotted,publication_year,lastname_firstauthor,publication_reference
+,um,um,um,um,um^3,,,,,,,,,
+4150,0.05,207.5,450,350,32681250,TEM,"one grid, one section",1mm x 2mm slot grid,28,1,T,2011,Bock,"Network anatomy and in vivo physiology of visual cortical neurons. Nature 471, 177–182 (2011)."
+3000,0.05,150,50,50,375000,TEM,"unreported, probably ribbon",1mm x 2mm slot grid,30,2,T,2013,Bumbarger,System-wide Rewiring Underlies Behavioral Differences in Predatory and Bacterial-Feeding Nematodes. 109–119 (2013). doi:10.1016/j.cell.2012.12.013
+2600,0.09,234,700,600,98280000,TEM,"one grid, one section",1mm x 2mm slot grid,559,4,F,1972,Gur,Ultrastructure within the lateral plexus of the Limulus eye. J Gen Physiol. 1972 Mar;59(3):285-304.
+2000,0.06,120,100,100,1200000,TEM,"ribbon, 15 - 30 sections each ribbon",1mm x 2mm slot grid,60,5,T,1991,Hall,The posterior nervous system of the nematode c elegans: serial reconsruction of identified neurons and complete pattern of synaptic interactions
+1200,0.08,96,10,10,9600,TEM,"ribbon, 3-5 each grid",1mm x 2mm slot grid,unreported,6,T,1987,Hamos,Synaptic circuits involving an individual retinogeniculate axon in the cat. J Comp Neurol. 1987 May 8;259(2):165-92.
+306,0.07,21.42,130,220,612612,TEM,"ribbon, 20 section each ribbon",1mm x 2mm slot grid,unreported,8,T,2007,Hoffpauir,"Serial sectioning and electron microscopy of large tissue volumes for 3D analysis and reconstruction: a case study of the calyx of Held. Nat. Protoc. 2, 9–22 (2007)."
+"200, multiple times",0.045,,4300,4300,,TEM,"ribbon, 200 sections on 12 grids",1mm x 2mm slot grid,unreported,10,T,2013,Kuwajima,Automated transmission-mode scanning electron microscopy (tSEM) for large volume analysis at nanoscale resolution. PLoS One. 2013;8(3):e59573
+3700,0.05,185,450,450,37462500,TEM,"one grid, one section",1mm x 2mm slot grid,51,11,T,2016,Lee,Anatomy and function of an excitatory network in the visual cortex. Nature. 2016 Apr 21;532(7599):370-4.
+3375,0.06,202.5,100,100,2025000,TEM,ribbon,1mm x 2mm slot grid,unreported,13,T,2016,Ryan,The CNS connectome of a tadpole larva of *Ciona intestinalis* (L.) highlights sidedness in the brain of a chordate sibling. Elife. 2016 Dec 6;5:e16962.
+"20, 22, 60",0.1,,10,10,,TEM,ribbon,1mm x 2mm slot grid,0,14,T,1974,Spacek,Ultrastructure and three-dimensional organization of synaptic glomeruli in rat somatosensory thalamus. J Anat. 1974 Jul;117(Pt 3):487-516.
+107;109,64 nm; 50 nm,,60,30,,TEM,ribbon,1mm x 2mm slot grid,unreported,15,T,1998,Shepherd,Three-dimensional structure and composition of CA3-->CA1 axons in rat hippocampal slices: implications for presynaptic connectivity and compartmentalization. J Neurosci. 1998 Oct 15;18(20):8300-10.
+672,0.06,40.32,17,22,15079.68,TEM,ribbon,1mm x 2mm slot grid,3,16,T,2008,Takemura,Synaptic circuits of the *Drosophila* optic lobe: the input terminals to the medulla. J Comp Neurol. 2008 Aug 10;509(5):493-513.
+1769,0.042,74.298,37,37,101713.962,TEM,ribbon,1mm x 2mm slot grid,21,17,T,2013,Takemura,A visual motion detection circuit suggested by Drosophila connectomics. Nature. 2013 Aug 8;500(7461):175-81.
+1073,0.5,536.5,150,450,36213750,TEM,ribbon,1mm x 2mm slot grid,1,18,F,1985,Fahrenbach,"Anatomical circuitry of lateral inhibition in the eye of the horseshoe crab, Limulus polyphemus. Proc R Soc Lond B Biol Sci. 1985 Aug 22;225(1239):219-49."
+8000,0.05,400,80,80,2560000,TEM,"one grid, one section",1mm x 2mm slot grid,unreported,19,,1986,White,The structure of the nervous system of the nematode *Caenorhabditis elegans*. Philos Trans R Soc Lond B Biol Sci. 1986 Nov 12;314(1165):1-340.
+7062,0.04,282.48,40,40,451968,TEM,"ribbon, 3 per grid",1mm x 2mm slot grid,10,20,,2018,Zheng,A Complete Electron Microscopy Volume of the Brain of Adult *Drosophila melanogaster*. Cell. 2018 Jul 26;174(3):730-743.e22.
+1724,0.029,49.996,40,40,79993.6,SEM,ATUM,tape,,21,,2015,Kasthuri,Saturated Reconstruction of a Volume of Neocortex. Cell. 2015 Jul 30;162(3):648-61.
+,,,,,,FIBSEM / SBFSEM,,,,27,,2009,Armer,Imaging transient blood vessel fusion events in zebrafish by correlative volume electron microscopy. PLoS One. 2009 Nov 6;4(11):e7716.
+3420,0.028,95.76,96,64,588349.44,SBFSEM,,,,28,,2019,Motta,Dense connectomic reconstruction in layer 4 of the somatosensory cortex. Science. 2019 Nov 29;366(6469):eaay3134. doi: 10.1126/science.aay3134.
+,,,,,,TEM,,,,29,,2020,Maniates-Selvin,Reconstruction of motor control circuits in adult Drosophila using automated transmission electron microscopy. bioRxiv 2020.01.10.902478
+,,,,,,,,,,30,,2016,Wanner,3-dimensional electron microscopic imaging of the zebrafish olfactory bulb and dense reconstruction of neurons. Sci Data. 2016 Nov 8;3:160100.
+,,,,,,TEM,ribbon,1mm x 2mm slot grid,,31,,2020,Dorkenwald,Binary and analog variation of synapses between cortical pyramidal neurons. bioRxiv 2019.12.29.890319
+unreported,0.05,,200,50,,,ribbon,1mm x 2mm slot grid,unreported,,F,,Ultrastructural,ultrastructural analysis of hippocampal neuropil from the connectomics perspective
+189,0.5,,100,100,,,ribbon,unreported,unreported,,F,1983,Microcircuitry,microcircuitry of the cat retina
