@@ -34,7 +34,9 @@
 29. Maniates-Selvin J, et al. Reconstruction of motor control circuits in adult Drosophila using automated transmission electron microscopy. bioRxiv 2020.01.10.902478 doi: [10.1101/2020.01.10.902478](https://doi.org/10.1101/2020.01.10.902478)
 30. Wanner AA, Genoud C, Friedrich RW. 3-dimensional electron microscopic imaging of the zebrafish olfactory bulb and dense reconstruction of neurons. Sci Data. 2016 Nov 8;3:160100. doi: [10.1038/sdata.2016.100](https://doi.org/10.1038/sdata.2016.100). PMID: 27824337; PMCID: PMC5100684.
 31. Dorkenwald S, et al. Binary and analog variation of synapses between cortical pyramidal neurons. bioRxiv 2019.12.29.890319; doi: [10.1101/2019.12.29.890319](https://doi.org/10.1101/2019.12.29.890319)
-
+32. Xu CS, et al. A Connectome of the Adult Drosophila Central Brain. bioRxiv 2020.01.21.911859; doi: [10.1101/2020.01.21.911859](https://doi.org/10.1101/2020.01.21.911859)
+33. Vishwanathan A, Daie K, Ramirez AD, Lichtman JW, Aksay ERF, Seung HS. Electron Microscopic Reconstruction of Functionally Identified Cells in a Neural Integrator. Curr Biol. 2017 Jul 24;27(14):2137-2147.e3. doi: [10.1016/j.cub.2017.06.028](https://doi.org/10.1016/j.cub.2017.06.028). Epub 2017 Jul 14. PMID: 28712570; PMCID: PMC5569574.
+34. Hildebrand 
 
 References indexed in PubMed are saved in the collection "volume-em-pubs" located at: 
 https://www.ncbi.nlm.nih.gov/sites/myncbi/1N1tanm0-kk/collections/59211574/public/
