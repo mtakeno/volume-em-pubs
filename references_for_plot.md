@@ -36,7 +36,10 @@
 31. Dorkenwald S, et al. Binary and analog variation of synapses between cortical pyramidal neurons. bioRxiv 2019.12.29.890319; doi: [10.1101/2019.12.29.890319](https://doi.org/10.1101/2019.12.29.890319)
 32. Xu CS, et al. A Connectome of the Adult Drosophila Central Brain. bioRxiv 2020.01.21.911859; doi: [10.1101/2020.01.21.911859](https://doi.org/10.1101/2020.01.21.911859)
 33. Vishwanathan A, Daie K, Ramirez AD, Lichtman JW, Aksay ERF, Seung HS. Electron Microscopic Reconstruction of Functionally Identified Cells in a Neural Integrator. Curr Biol. 2017 Jul 24;27(14):2137-2147.e3. doi: [10.1016/j.cub.2017.06.028](https://doi.org/10.1016/j.cub.2017.06.028). Epub 2017 Jul 14. PMID: 28712570; PMCID: PMC5569574.
-34. Hildebrand 
+34. Hildebrand DGC, Cicconet M, Torres RM, Choi W, Quan TM, Moon J, Wetzel AW, Scott Champion A, Graham BJ, Randlett O, Plummer GS, Portugues R, Bianco IH, Saalfeld S, Baden AD, Lillaney K, Burns R, Vogelstein JT, Schier AF, Lee WA, Jeong WK, Lichtman JW, Engert F. Whole-brain serial-section electron microscopy in larval zebrafish. Nature. 2017 May 18;545(7654):345-349. doi: [10.1038/nature22356](https://doi.org/10.1038/nature22356). Epub 2017 May 10. PMID: 28489821; PMCID: PMC5594570.
+35. Morgan JL, Berger DR, Wetzel AW, Lichtman JW. The Fuzzy Logic of Network Connectivity in Mouse Visual Thalamus. Cell. 2016 Mar 24;165(1):192-206. doi: [10.1016/j.cell.2016.02.033](https://doi.org/10.1016/j.cell.2016.02.033). PMID: 27015312; PMCID: PMC4808248.
+36. Svara FN, Kornfeld J, Denk W, Bollmann JH. Volume EM Reconstruction of Spinal Cord Reveals Wiring Specificity in Speed-Related Motor Circuits. Cell Rep. 2018 Jun 5;23(10):2942-2954. doi: [10.1016/j.celrep.2018.05.023](https://doi.org/10.1016/j.celrep.2018.05.023). PMID: 29874581.
+
 
 References indexed in PubMed are saved in the collection "volume-em-pubs" located at: 
 https://www.ncbi.nlm.nih.gov/sites/myncbi/1N1tanm0-kk/collections/59211574/public/

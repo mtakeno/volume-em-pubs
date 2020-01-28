@@ -15,18 +15,20 @@
 ,1769,0.042,74.298,37,37,101713.962,,,,TEM,ribbon,1mm x 2mm slot grid,21,17,T,2013,Takemura,A visual motion detection circuit suggested by Drosophila connectomics. Nature. 2013 Aug 8;500(7461):175-81.
 ,1073,0.5,536.5,150,450,36213750,,,,TEM,ribbon,1mm x 2mm slot grid,1,18,F,1985,Fahrenbach,"Anatomical circuitry of lateral inhibition in the eye of the horseshoe crab, Limulus polyphemus. Proc R Soc Lond B Biol Sci. 1985 Aug 22;225(1239):219-49."
 ,8000,0.05,400,80,80,2560000,,,,TEM,"one grid, one section",1mm x 2mm slot grid,unreported,19,T,1986,White,The structure of the nervous system of the nematode *Caenorhabditis elegans*. Philos Trans R Soc Lond B Biol Sci. 1986 Nov 12;314(1165):1-340.
-,7062,0.04,282.48,750,350,74151000,4,4,40,TEMCA2,"ribbon, 3 per grid",1mm x 2mm slot grid,12,20,T,2018,Zheng,A Complete Electron Microscopy Volume of the Brain of Adult *Drosophila melanogaster*. Cell. 2018 Jul 26;174(3):730-743.e22.
-,1724,0.029,49.996,40,40,79993.6,3,3,30,SEM,ATUM,tape,unreported,21,T,2015,Kasthuri,Saturated Reconstruction of a Volume of Neocortex. Cell. 2015 Jul 30;162(3):648-61.
+FAFB,7062,0.04,282.48,750,350,74151000,4,4,40,TEMCA2,"ribbon, 3 per grid",1mm x 2mm slot grid,12,20,T,2018,Zheng,A Complete Electron Microscopy Volume of the Brain of Adult *Drosophila melanogaster*. Cell. 2018 Jul 26;174(3):730-743.e22.
+,1724,0.029,49.996,40,40,79993.6,3,3,30,SEM,ATUM,kapton tape,unreported,21,T,2015,Kasthuri,Saturated Reconstruction of a Volume of Neocortex. Cell. 2015 Jul 30;162(3):648-61.
 ,4840,0.05,242,70,115,1948100,3.8,3.8,50,TEM,grid,1mm x 2mm slot grid,unreported,22,T,2015,Ohyama, A multilevel multimodal circuit enhances action selection in Drosophila. Nature. 2015 Apr 30;520(7549):633-9.
 ,,,274,429,429,50427234,11.24,11.24,30,SBFSEM,none,none,unreported,23,T,2017,Schmidt,Axonal synapse sorting in medial entorhinal cortex. Nature. 2017 Sep 28;549(7673):469-475.
 ,317,0.05,15.85,240,380,1445520,3.8,3.8,50,TEM,ribbon,1mm x 2mm slot grid,unreported,24,T,2018,Bloss,Single excitatory axons form clustered synapses onto CA1 pyramidal cell dendrites. Nat Neurosci. 2018 Mar;21(3):353-363.
 e2006,3200,0.025,80,132,114,1203840,16.5,16.5,25,SBFSEM,none,none,unreported,25,T,2013,Helmstaedter,Connectomic reconstruction of the inner plexiform layer in the mouse retina. Nature. 2013 Aug 8;500(7461):168-74.
-,,,,,,,,,,,,,,26,,2011,Briggman,Wiring specificity in the direction-selectivity circuit of the retina. Nature. 2011 Mar 10;471(7337):183-8.
-,,,,,,,,,,FIBSEM / SBFSEM,none,,,27,,2009,Armer,Imaging transient blood vessel fusion events in zebrafish by correlative volume electron microscopy. PLoS One. 2009 Nov 6;4(11):e7716.
-,3420,0.028,95.76,96,64,588349.44,,,,SBFSEM,none,,,28,T,2019,Motta,Dense connectomic reconstruction in layer 4 of the somatosensory cortex. Science. 2019 Nov 29;366(6469):eaay3134. doi: 10.1126/science.aay3134.
-,,,,,,,,,,TEM,,,,29,,2020,Maniates-Selvin,Reconstruction of motor control circuits in adult Drosophila using automated transmission electron microscopy. bioRxiv 2020.01.10.902478
-,,,,,,,,,,,,,,30,,2016,Wanner,3-dimensional electron microscopic imaging of the zebrafish olfactory bulb and dense reconstruction of neurons. Sci Data. 2016 Nov 8;3:160100.
-,,,,,,,4,4,40,TEMCA,ribbon,1mm x 2mm slot grid,,31,,2020,Dorkenwald,Binary and analog variation of synapses between cortical pyramidal neurons. bioRxiv 2019.12.29.890319
-,,,,,,,8,8,8,FIBSEM,none,,,32,,2020,Xu,A Connectome of the Adult Drosophila Central Brain
-,1266.666667,0.045,57,220,112,1404480,5,5,45,SEM,ATUM,tape,unreported,33,T,2017,Vishwanathan,Electron Microscopic Reconstruction of Functionally Identified Cells in a Neural Integrator. Curr Biol. 2017 Jul 24;27(14):2137-2147.e3. 
-,,,,,,,,,,,,,,34,,,Hildebrand,
+e2198,13000,0.023,300,60,350,6300000,16.5,16.5,25,SBFSEM,none,none,unreported,26,T,2011,Briggman,Wiring specificity in the direction-selectivity circuit of the retina. Nature. 2011 Mar 10;471(7337):183-8.
+,1778,0.072,128.016,148,127,2406188.736,72,72,72,FIBSEM,none,none,unreported,27,T,2009,Armer,Imaging transient blood vessel fusion events in zebrafish by correlative volume electron microscopy. PLoS One. 2009 Nov 6;4(11):e7716.
+,3420,0.028,95.76,96,64,588349.44,11.2,11.2,28,SBFSEM,none,none,unreported,28,T,2019,Motta,Dense connectomic reconstruction in layer 4 of the somatosensory cortex. Science. 2019 Nov 29;366(6469):eaay3134. doi: 10.1126/science.aay3134.
+,4355,0.045,195.975,950,320,59576400,4.3,4.3,45,TEMCA,ATUM,GridTape,6,29,T,2020,Maniates-Selvin,Reconstruction of motor control circuits in adult Drosophila using automated transmission electron microscopy. bioRxiv 2020.01.10.902478
+wanner16,4746,0.025,118.65,72.2,107.8,923471.934,9.25,9.25,25,SBFSEM,none,none,1,30,T,2016,Wanner,3-dimensional electron microscopic imaging of the zebrafish olfactory bulb and dense reconstruction of neurons. Sci Data. 2016 Nov 8;3:160100.
+pinky,2176,0.04,87.04,250,140,3046400,4,4,40,TEMCA,ribbon,1mm x 2mm slot grid,20,31,T,2020,Dorkenwald,Binary and analog variation of synapses between cortical pyramidal neurons. bioRxiv 2019.12.29.890319
+fly_hemibrain,,,250,250,250,15625000,8,8,8,FIBSEM,none,none,unreported,32,T,2020,Xu,A Connectome of the Adult Drosophila Central Brain
+,1266.666667,0.045,57,220,112,1404480,5,5,45,SEM,ATUM,kapton tape,unreported,33,T,2017,Vishwanathan,Electron Microscopic Reconstruction of Functionally Identified Cells in a Neural Integrator. Curr Biol. 2017 Jul 24;27(14):2137-2147.e3. 
+130201zf142,17963,0.06,1077.78,575,520,322256220,18.8,18.8,60,SEM,ATUM,kapton tape,244,34,T,2017,Hildebrand,Whole-brain serial-section electron microscopy in larval zebrafish. Nature. 2017 May 18;545(7654):345-349.
+dLGN-Full,9801,0.03,294.03,400,400,47044800,4,4,30,SEM,ATUM,kapton tape,18,35,T,2016,Morgan,The Fuzzy Logic of Network Connectivity in Mouse Visual Thalamus. Cell. 2016 Mar 24;165(1):192-206.
+,9857.142857,0.021,207,74,74,1133532,9,9,21,SBFSEM,none,none,unreported,36,T,2018,Svara,Volume EM Reconstruction of Spinal Cord Reveals Wiring Specificity in Speed-Related Motor Circuits. Cell Rep. 2018 Jun 5;23(10):2942-2954.
