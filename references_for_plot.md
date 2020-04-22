@@ -40,6 +40,7 @@
 35. Morgan JL, Berger DR, Wetzel AW, Lichtman JW. The Fuzzy Logic of Network Connectivity in Mouse Visual Thalamus. Cell. 2016 Mar 24;165(1):192-206. doi: [10.1016/j.cell.2016.02.033](https://doi.org/10.1016/j.cell.2016.02.033). PMID: 27015312; PMCID: PMC4808248.
 36. Svara FN, Kornfeld J, Denk W, Bollmann JH. Volume EM Reconstruction of Spinal Cord Reveals Wiring Specificity in Speed-Related Motor Circuits. Cell Rep. 2018 Jun 5;23(10):2942-2954. doi: [10.1016/j.celrep.2018.05.023](https://doi.org/10.1016/j.celrep.2018.05.023). PMID: 29874581.
 37. Calì C, Agus M, Kare K, Boges DJ, Lehväslaiho H, Hadwiger M, Magistretti PJ. 3D cellular reconstruction of cortical glia and parenchymal morphometric analysis from Serial Block-Face Electron Microscopy of juvenile rat. Prog Neurobiol. 2019 Dec;183:101696. doi: [10.1016/j.pneurobio.2019.101696](https://doi.org/10.1016/j.pneurobio.2019.101696). Epub 2019 Sep 21. PMID: 31550514.
+38. Schneider-Mizell CM, et al. Chandelier cell anatomy and function reveal a variably distributed but common signal. bioRxiv 2020.03.31.018952; doi:[10.1101/2020.03.31.018952](https://doi.org/10.1101/2020.03.31.018952)
 
 
 References that have an entry in PubMed are saved to the collection "volume-em-pubs" located at: 
