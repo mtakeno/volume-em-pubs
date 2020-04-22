@@ -39,7 +39,8 @@
 34. Hildebrand DGC, Cicconet M, Torres RM, Choi W, Quan TM, Moon J, Wetzel AW, Scott Champion A, Graham BJ, Randlett O, Plummer GS, Portugues R, Bianco IH, Saalfeld S, Baden AD, Lillaney K, Burns R, Vogelstein JT, Schier AF, Lee WA, Jeong WK, Lichtman JW, Engert F. Whole-brain serial-section electron microscopy in larval zebrafish. Nature. 2017 May 18;545(7654):345-349. doi: [10.1038/nature22356](https://doi.org/10.1038/nature22356). Epub 2017 May 10. PMID: 28489821; PMCID: PMC5594570.
 35. Morgan JL, Berger DR, Wetzel AW, Lichtman JW. The Fuzzy Logic of Network Connectivity in Mouse Visual Thalamus. Cell. 2016 Mar 24;165(1):192-206. doi: [10.1016/j.cell.2016.02.033](https://doi.org/10.1016/j.cell.2016.02.033). PMID: 27015312; PMCID: PMC4808248.
 36. Svara FN, Kornfeld J, Denk W, Bollmann JH. Volume EM Reconstruction of Spinal Cord Reveals Wiring Specificity in Speed-Related Motor Circuits. Cell Rep. 2018 Jun 5;23(10):2942-2954. doi: [10.1016/j.celrep.2018.05.023](https://doi.org/10.1016/j.celrep.2018.05.023). PMID: 29874581.
+37. Calì C, Agus M, Kare K, Boges DJ, Lehväslaiho H, Hadwiger M, Magistretti PJ. 3D cellular reconstruction of cortical glia and parenchymal morphometric analysis from Serial Block-Face Electron Microscopy of juvenile rat. Prog Neurobiol. 2019 Dec;183:101696. doi: [10.1016/j.pneurobio.2019.101696](https://doi.org/10.1016/j.pneurobio.2019.101696). Epub 2019 Sep 21. PMID: 31550514.
 
 
-References indexed in PubMed are saved in the collection "volume-em-pubs" located at: 
+References that have an entry in PubMed are saved to the collection "volume-em-pubs" located at: 
 https://www.ncbi.nlm.nih.gov/sites/myncbi/1N1tanm0-kk/collections/59211574/public/
