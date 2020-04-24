@@ -1,4 +1,7 @@
 # volume-em-pubs
+
+![sample plot of published EM volumes over time](samplePlot.png)
+
 Interactive graph of publications of large electron microscopy (EM) volumes over time. Some publications are image volumes only, some have segmentations associated with them. This is by no means an exhaustive list. As datasets are published, they will be added to the list.
 
 This started as a personal project to learn interactive graphing in Python using Bokeh (and other packages).
